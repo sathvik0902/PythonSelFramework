@@ -43,3 +43,4 @@ class TestOne(BaseClass):
 
         assert ("Success! Thank you!" in textMatch)
         print('Trigger jobs')
+        print('Trigger jobs after NGrok')
